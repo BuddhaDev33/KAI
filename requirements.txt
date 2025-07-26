@@ -1,0 +1,13 @@
+# requirements.txt for KAI Streamlit + Ollama Project
+
+streamlit==1.34.0
+# Web framework for building the chat UI
+
+requests==2.31.0
+# For HTTP requests to communicate with Ollama API
+
+pillow==10.3.0
+# To load and display images like your logo
+
+# Note: Ollama is a separate system/service and NOT installed via pip. 
+# You need to install and run Ollama separately following official instructions.
